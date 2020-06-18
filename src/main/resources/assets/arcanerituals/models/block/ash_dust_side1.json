@@ -1,0 +1,6 @@
+{
+    "parent": "arcanerituals:block/ash_dust_side",
+    "textures": {
+        "line": "arcanerituals:block/ash_dust_line1"
+    }
+}
